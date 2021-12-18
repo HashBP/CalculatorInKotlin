@@ -1,3 +1,8 @@
+/*
+Here, This is a basic calculator app for android, In this I have learned
+*(AnyName : view) in a function which finds the id of the button we clicked on.
+*The editText view in which we can use the numbers available on screen to directlyuse it as a number by "edittxt.text.toString()" and "edittxt.setText()"
+*/
 package com.example.calculatorinkotlin
 
 import androidx.appcompat.app.AppCompatActivity
