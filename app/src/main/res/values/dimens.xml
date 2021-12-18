@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cal_padding">16dp</dimen>
+    <dimen name="cal_btn_margin">10dp</dimen>
+    <dimen name="new_mar_btn">5dp</dimen>
+</resources>
